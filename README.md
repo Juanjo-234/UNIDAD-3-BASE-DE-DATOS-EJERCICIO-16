@@ -124,6 +124,7 @@ A continuación se detalla cada una de las fases representadas:
 ### 4. Tercera Forma Normal (3FN)
 
 * Se eliminan las **dependencias transitivas**, garantizando que ningún atributo no clave dependa de otro atributo no clave. El diseño se consolida en un modelo relacional robusto y totalmente normalizado, interconectado mediante claves foráneas (FK), lo que asegura la integridad referencial y evita anomalías para la gestión inmobiliaria.
-<img width="5202" height="2932" alt="EJERCICIO 16-FASE DE NORMALIZACION drawio" src="https://github.com/user-attachments/assets/df1fc687-e0cf-4452-9788-2b5e98885eab" />
+<img width="5202" height="2992" alt="EJERCICIO 16-FASE DE NORMALIZACION (1) drawio" src="https://github.com/user-attachments/assets/c1a65266-83a6-4ada-ae04-782e6afd139a" />
+
 
 
